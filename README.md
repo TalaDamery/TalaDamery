@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tala-damery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tala-damery" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tala-damery-547a5a347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tala-damery-547a5a347" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/talamery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="talamery" height="30" width="40" /></a>
 </p>
 
@@ -15,3 +15,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taladamery&show_icons=true&locale=en&layout=compact" alt="taladamery" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taladamery&show_icons=true&locale=en" alt="taladamery" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taladamery&" alt="taladamery" /></p>
