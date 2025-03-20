@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tala Damery</h1>
+<p align="center">
+  <img src="masthead_typing.gif" alt="Hi, I'm Tala Damery">
+</p>
 <h3 align="center">Computer Engineering Student</h3>
 
 <p align="center">
