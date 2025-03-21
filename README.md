@@ -1,8 +1,9 @@
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=E6B2BA&text=Hi%20👋,%20I'm%20Tala%20Damery&fontSize=0"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20👋,%20I'm%20Tala%20Damery&fontSize=40" alt="Header"/>
 </p>
 
-<h3 align="center">💻 Computer Engineering Student </h3>
+<h3 align="center">💻 A Passionate Computer Engineering Student</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="Coding" width="400"/>
@@ -52,13 +53,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taladamery&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taladamery&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taladamery&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taladamery&show_icons=true&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taladamery&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taladamery&theme=transparent&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer"/>
 </p>
