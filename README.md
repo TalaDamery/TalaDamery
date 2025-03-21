@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=E6B2BA&text=Hi%20,%20I'm%20Tala%20Damery👋&fontSize=49&section=header&fontColor=FFFFFF"/>
 </p>
 
-<h3 align="center">💻 Computer Engineering Student </h3>
+<h3 align="center"> Computer Engineering Student💻 </h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="Coding" width="400"/>
@@ -16,7 +16,6 @@
 - 🎓 I'm currently studying **Computer Engineering**.
 - 🌐 I'm learning **Full-Stack Web Development** — both **Front-End** & **Back-End**.
 - 🚀 Passionate about solving problems and building impactful applications.
-- 💡 I enjoy working with modern technologies and constantly pushing my limits.
 
 ---
 
