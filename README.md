@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=E6B2BA&text=Hi%20,%20I'm%20Tala%20Damery👋&fontSize=0&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=E6B2BA&text=Hi%20,%20I'm%20Tala%20Damery👋&fontSize=49&section=header&fontColor=FFFFFF"/>
 </p>
 
 <h3 align="center">💻 Computer Engineering Student </h3>
