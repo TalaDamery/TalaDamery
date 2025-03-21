@@ -71,4 +71,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=taladamery&" alt="GitHub Streak" />
 </p>
-![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/talamery?theme=dark&font=Karma" alt="LeetCode Stats" />
+</p>
