@@ -1,3 +1,4 @@
+<!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=E6B2BA&text=Hi%20,%20I'm%20Tala%20Damery👋&fontSize=49&section=header&fontColor=FFFFFF"/>
 </p>
@@ -22,11 +23,11 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/tala-damery-547a5a347" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://codeforces.com/profile/tala" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/talamery" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <a href="https://linkedin.com/in/tala-damery-547a5a347" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
@@ -52,17 +53,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taladamery&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taladamery&show_icons=true&theme=dark&title_color=ffb6c1&icon_color=ffb6c1&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taladamery&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taladamery&show_icons=true&layout=compact&theme=dark&title_color=ffb6c1&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taladamery&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taladamery&theme=dark&ring=ffb6c1&fire=ffb6c1&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&sideNums=ffffff&background=0D1117" alt="GitHub Streak" />
 </p>
 
+---
+
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=E6B2BA&fontSize=0&section=footer"/>
 </p>
