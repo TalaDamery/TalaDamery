@@ -65,7 +65,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=taladamery&theme=dark&ring=ffb6c1&fire=ffb6c1&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&sideNums=ffffff&background=0D1117" alt="GitHub Streak" />
 </p>
 
----
+
 
 <!-- Footer -->
 <p align="center">
