@@ -71,6 +71,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=taladamery&" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/talamery?theme=dark&font=Karma" alt="LeetCode Stats" />
-</p>
+
