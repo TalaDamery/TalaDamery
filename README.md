@@ -11,7 +11,7 @@
 
 ---
 
-### 🌱 About Me
+###  About Me
 
 - 🎓 I'm currently studying **Computer Engineering**.
 - 🌐 I'm learning **Full-Stack Web Development** — both **Front-End** & **Back-End**.
@@ -19,7 +19,7 @@
 
 ---
 
-### 🤝 Connect with Me
+###  Connect with Me
 
 <p align="left">
   <a href="https://leetcode.com/talamery/" target="_blank">
@@ -33,7 +33,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
