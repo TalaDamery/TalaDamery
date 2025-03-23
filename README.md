@@ -6,7 +6,7 @@
 <h3 align="center"> Computer Engineering Student💻 </h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="Coding" width="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc1MWlvZzBqdHAyczIzemF6a2JsOGRocmFsbjJ1NnAxZ2pyaG1kYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5vCZ5J3EJBQ7IkvO9/giphy.gif" alt="Coding" width="400"/>
 </p>
 
 ---
