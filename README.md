@@ -13,9 +13,9 @@
 
 ###  About Me
 
-- 🎓 I'm currently studying **Computer Engineering**.
-- 🌐 I'm learning **Full-Stack Web Development** — both **Front-End** & **Back-End**.
-- 🚀 Passionate about solving problems and building impactful applications.
+-  I'm currently studying **Computer Engineering**.
+-  I'm learning **Full-Stack Web Development**.
+-  Passionate about solving problems and building impactful applications.
 
 ---
 
